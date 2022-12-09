@@ -1,2 +1,1 @@
-image:
-  file: Dockerfile.amd64
+image: dorowu/ubuntu-desktop-lxde-vnc:focal
